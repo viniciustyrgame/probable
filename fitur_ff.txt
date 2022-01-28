@@ -1,0 +1,1 @@
+Player,Antena_Male;antenaMale-Antena_Female;antenaFemale-Run_Medkit;runMedkit-Speed_In_Water;noWater-All_Male;allMale-All_Female;allFemale@NEW_MOD_ON_CHANNEL,null;null
